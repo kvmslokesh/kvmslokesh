@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 ##Web Developer & Competitive Coder<br>
+👨‍💻 Web Developer & Competitive Coder<br>
 🚀 Passionate about creating user-friendly applications and tackling new challenges head-on.<br>📚 Eager learner, constantly adapting and growing with a love for teamwork.<br><br>💡 Currently diving into:<br><br>    🌐 Web Development<br>    🤖 Prompt Engineering<br>    📊 Power BI<br>    🎨 Figma<br>🔧 Excited to apply my skills and enthusiasm to contribute to innovative projects and build effective solutions!
 
 
